@@ -32,6 +32,7 @@ GameOver::GameOver(int widht,int height)
 	{
 		winning[i].setFont(font);
 		winning[i].setCharacterSize(80);
+
 	}
 	winning[0].setFillColor(Color(0, 95, 106));
 	winning[0].setPosition(Vector2f(250, 300));
